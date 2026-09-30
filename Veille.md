@@ -21,7 +21,7 @@ On peut définir différents types de veille:
 ## QUELLES SONT LES DIFFERENTS SUPPORTS OU MEDIAS ME PERMETTANT DE FAIRE DE LA VEILLE TECHNOLOGIQUE IT?
 
 
-* SUPPORT NUMERIQUE
+* **SUPPORT NUMERIQUE**
 
     * Les sites internet:
 
@@ -50,7 +50,7 @@ On peut définir différents types de veille:
         - Liste à compléter...
 
 
-* SUPPORT PAPIER
+* **SUPPORT PAPIER**
 
     * Presse papier
         - 
