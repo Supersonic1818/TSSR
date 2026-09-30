@@ -6,9 +6,9 @@ La veille technologique, de manière générale, c'est le fait de se tenir infor
 
 L'informatique étant un secteur en constante évolution, cette veille est indispensable pour tout travailleur dans ce secteur.
 
-Par exemple, on doit être capable de répondre à "Quelle technologie a été émergente cette année?"
+Par exemple, on doit être capable de répondre à une question type: **"Quelle technologie a été émergente cette année?"**
 
-Il y a différents types de veille:
+On peut définir différents types de veille:
 
 - Veille technologique
 
@@ -18,34 +18,49 @@ Il y a différents types de veille:
 
 - Veille concurentielle
 
-## QUELLES SONT LES DIFFERENTS SUPPORTS OU MEDIAS PERMETTANT DE FAIRE DE LA VEILLE TECHNOLOGIQUE IT?
+## QUELLES SONT LES DIFFERENTS SUPPORTS OU MEDIAS ME PERMETTANT DE FAIRE DE LA VEILLE TECHNOLOGIQUE IT?
 
-* Les sites internet:
 
-    - https://www.privacytools.io/
-    - https://www.bortzmeyer.org/
-    - https://www.next.ink
-    - https://www.minimachines.net/
-    - https://www.laquadrature.net/en/
-    - https://x.com/InfosReseaux
-    - https://x.com/bortzmeyer
-    - Liste à compléter...
+* SUPPORT NUMERIQUE
 
-* Les podcasts:
+    * Les sites internet:
 
-    - NoLimitSecu
-    - Le Code a changé
-    - Liste à compléter
+        - https://linuxfr.org/ (Site francophone dédié à Linux et autres logiciels libres)
+        - https://www.it-connect.fr/ (Site francophone dédié aux Admins Sys/Réseau)
 
-* Les chaînes Youtube
+        - https://gblogs.cisco.com/fr/
+        - https://www.journaldunet.com/web-tech/
 
-    - Xavki
-    - Stéphane Robert
-    - Cocadmin
-    - ITConnect
-    - Underscore
-    - LeFiltre
+        - https://www.lemondeinformatique.fr/
+        - https://korben.info/ (Blog francophone)
+        - https://cert.ssi.gouv.fr/ (Site du centre d'alerte de l'ANSSI, permet de savoir les vulnérabilités concernant les OS et équipements réseaux)
+        - Liste à compléter...
 
-* La presse papier / livres
+    * Les podcasts:
+
+        - https://podcast.stormacq.net/awsfr/index.html (Série de podcasts produit par AWS)
+        - https://www.celeste.fr/podcast/ (Le podcast des experts Télécom, Cloud & Cybersécurité)
+        - Liste à compléter...
+
+    * Les chaînes Youtube
+
+        - Xavki >> https://www.youtube.com/@xavki
+        - Grafikart >> https://www.youtube.com/@grafikart
+        - Cocadmin >> https://www.youtube.com/@cocadmin
+        - Liste à compléter...
+
+
+* SUPPORT PAPIER
+
+    * Presse papier
+        - 
+        - 
+        - 
+
+    * Livres
+        - 
+        - 
+        - 
+
 
 * Les flux RSS
