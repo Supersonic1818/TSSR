@@ -4,10 +4,21 @@
 
 La veille technologique, de manière générale, c'est le fait de se tenir informer de l'évolution de son environnement. 
 
-L'informatique étant un secteur en constante évolution, cette veille est indispensable pour tout travailleur de ce secteur. 
+L'informatique étant un secteur en constante évolution, cette veille est indispensable pour tout travailleur dans ce secteur.
 
+Par exemple, on doit être capable de répondre à "Quelle technologie a été émergente cette année?"
 
-## QUELLES SONT LES DIFFERENTS SUPPORTS PERMETTANT DE FAIRE DE LA VEILLE TECHNOLOGIQUE IT?
+Il y a différents types de veille:
+
+- Veille technologique
+
+- Veille documentaire
+
+- Veille sectorielle (Par exemple: IT // Santé // autres...)
+
+- Veille concurentielle
+
+## QUELLES SONT LES DIFFERENTS SUPPORTS OU MEDIAS PERMETTANT DE FAIRE DE LA VEILLE TECHNOLOGIQUE IT?
 
 * Les sites internet:
 
@@ -34,3 +45,7 @@ L'informatique étant un secteur en constante évolution, cette veille est indis
     - ITConnect
     - Underscore
     - LeFiltre
+
+* La presse papier / livres
+
+* Les flux RSS
