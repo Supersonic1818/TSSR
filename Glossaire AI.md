@@ -1,5 +1,7 @@
 # **GLOSSAIRE SUR L'INTELLIGENCE ARTIFICIELLE**
 
+## Quelques définitions sur des termes techniques liés à l'intelligence artificielle
+
 Agent
 
 ###Algorithme:### Un algorithme est une suite finie, ordonnée et non ambiguë d'instructions ou de règles opératoires permettant de résoudre un problème ou d'obtenir un résultat précis
