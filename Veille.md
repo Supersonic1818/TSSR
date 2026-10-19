@@ -34,6 +34,7 @@ On peut définir différents types de veille:
         - https://www.lemondeinformatique.fr/
         - https://korben.info/ (Blog francophone)
         - https://cert.ssi.gouv.fr/ (Site du centre d'alerte de l'ANSSI, permet de savoir les vulnérabilités concernant les OS et équipements réseaux)
+        - https://www.reddit.com/
         - Liste à compléter...
 
     * Les podcasts:
