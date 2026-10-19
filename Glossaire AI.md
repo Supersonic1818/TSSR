@@ -2,7 +2,7 @@ GLOSSAIRE SUR L'INTELLIGENCE ARTIFICIELLE
 
 Agent
 
-Algorithme: Un algorithme est une suite finie, ordonnée et non ambiguë d'instructions ou de règles opératoires permettant de résoudre un problème ou d'obtenir un résultat précis
+###Algorithme:### Un algorithme est une suite finie, ordonnée et non ambiguë d'instructions ou de règles opératoires permettant de résoudre un problème ou d'obtenir un résultat précis
 
 Alignement
 
