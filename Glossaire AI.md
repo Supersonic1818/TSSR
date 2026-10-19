@@ -2,78 +2,122 @@
 
 ## Quelques définitions sur des termes techniques liés à l'intelligence artificielle
 
-Agent
+## A
 
-###Algorithme:### Un algorithme est une suite finie, ordonnée et non ambiguë d'instructions ou de règles opératoires permettant de résoudre un problème ou d'obtenir un résultat précis
+**Agent:** Logiciel autonome
 
-Alignement
+**Algorithme:** Un algorithme est une suite finie, ordonnée et non ambiguë d'instructions ou de règles opératoires permettant de résoudre un problème ou d'obtenir un résultat précis
 
-Auto-apprentissage
+**Alignement:**  C'est un domaine de recherche qui vise à faire en sorte que les objectifs, les comportements et les valeurs d'un modèle d'IA correspondent aux intentions et à l'éthique de ses concepteurs (par exemple via le RLHF)
 
-Autonomie
+**Auto-apprentissage:** Qui a la faculté d'apprendre par lui-même
 
-Base de données: Une base de données est un conteneur électronique organisé qui permet de stocker, de gérer, de modifier et de récupérer facilement des volumes importants d'informations
+**Autonomie:** Qui a la faculté de se gérer seul
 
-Bulle IA
+## B
 
-Capacité
+**Base de données:** Une base de données est un conteneur électronique organisé qui permet de stocker, de gérer, de modifier et de récupérer facilement des volumes importants d'informations
 
-CUDA
+**Bulle IA:** C'est un phénomène de spéculatiion financier et informatique autour de l'IA.
 
-Cyberattaque par IA
+## C
 
-Danger
+**Capacité:**
 
-Distillation
+**CUDA:**
 
-Ecoute
+**Cyberattaque par IA:**
 
-Environnement
+## D
 
-Frontière (Modèle): Désigne un système d'intelligence artificielle qui représente la pointe absolue de ce qui est techniquement possible à un moment donné
+**Danger:**
 
-Génératif: Ce qui a la capacité de créer, de produire ou de générer
+**Distillation:**
 
-Gouvernance
+## E
 
-GPU
+**Ecoute:**
 
-Hallucination
+**Environnement:**
 
-Harnais
+## F
 
-HuggingFace
+**Frontière (Modèle):** Désigne un système d'intelligence artificielle qui représente la pointe absolue de ce qui est techniquement possible à un moment donné
 
-Inférence
+## G
 
-Injection
+**Génératif:** Ce qui a la capacité de créer, de produire ou de générer
 
-Invasif
+**Gouvernance:**
 
-LLM
+**GPU:**
 
-Machine Learning
+## H
 
-Mathématique
+**Hallucination:**
 
-Mémoire unifiée
+**Harnais:**
 
-NVIDIA
+**HuggingFace:**
 
-OpenClaw
+## I
 
-OpenRouter
+**Inférence:**
 
-Paramètre
+**Injection:**
 
-Poids
+**Invasif:**
 
-Prompt
+## L
 
-RAM
+**LLM:**
 
-RAG
+## M
 
-Réseau neuronal
+**Machine Learning:**
 
-SLOP
+**Mathématique:**
+
+**Mémoire unifiée:**
+
+## N
+
+**NVIDIA:**
+
+## O
+
+**OpenClaw:**
+
+**OpenRouter:**
+
+## P
+
+**Paramètre:**
+
+**Poids:**
+
+**Prompt:**
+
+## R
+
+**RAM:**
+
+**RAG:** (Génération Augmentée par Récupération ou Retrieval-Augmented Generation)
+
+**Réseau neuronal:**
+
+## S
+
+**SLOP:**
+
+## T
+
+**Token:**
+
+**TPU:**
+
+**Transformer:**
+
+## V
+
+**Verification:**
