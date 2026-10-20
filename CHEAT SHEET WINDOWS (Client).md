@@ -32,35 +32,26 @@ Liste des raccourcis Windows les plus utiles pour un Technicien Support par exem
 
 ## CONSOLES .CPL WINDOWS
 
-- **ncpa.cpl:** Connexions Réseau
-
-- **firewall.cpl:** Pare-Feu Windows
-
-- **appwiz.cpl:** Programmes et fonctionnalités
-
-- **mmsys.cpl:** Périphériques de sons
-
-- **powercfg.cpl:** Options d'alimentation
-
-- **sysdm.cpl:** Propriétés Système
+| Commande | Fonctionnalités |
+| :--- | :--- |
+| **ncpa.cpl** | Connexions Réseau |
+| **firewall.cpl** | Pare-Feu Windows |
+| **appwiz.cpl** | Programmes et fonctionnalités |
+| **mmsys.cpl** | Périphériques de sons |
+| **powercfg.cpl** | Options d'alimentation |
+| **sysdm.cpl** | Propriétés Système |
 
 
 ## CONSOLES AUTRES
 
-- **control:** Panneau de configuration
-
-- **regedit:** Base de registre Windows
-
-- **mstmc:** Lancement du Bureau à distance
-
-- **mmc:** Créer ses consoles
-
-- **%temp%:**
-
-- **cmd:** Lancement de l'invite de commandes
-
-- **cleanmgr:** Propose un nettoyage du disque
-
-- **mrt:**
-
-- **msinfo32:**
+| Commande | Fonctionnalités |
+| :--- | :--- |
+| **control** | Panneau de configuration traditionnel |
+| **regedit** | Éditeur de la base de registre Windows |
+| **mstsc** | Connexion Bureau à distance (RDP) |
+| **mmc** | Microsoft Management Console (pour créer ses propres consoles d'outils) |
+| **%temp%** | Ouvre directement le dossier des fichiers temporaires (pour libérer de l'espace) |
+| **cmd** | Lancement de l'invite de commandes Windows |
+| **cleanmgr** | Outil de nettoyage de disque (suppression des fichiers inutiles) |
+| **mrt** | Outil de suppression des logiciels malveillants de Windows (MSRT) |
+| **msinfo32** | Informations système complètes (résumé matériel, composants et environnement logiciel) |
