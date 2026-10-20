@@ -1,3 +1,27 @@
+# CHEAT SHEET DES RACCOURCIS, OUTILS ET CONSOLES SOUS WINDOWS
+
+## RACCOURCIS WINDOWS
+
+Liste des raccourcis Windows les plus utiles pour un Technicien Support par exemple.
+
+- **Win + R** >> Ouvre la boîte de dialogue "Exécuter" pour lancer des commandes (Administration Système)
+
+- **Win + L** >> Verrouille le PC (Sécurité)
+
+- **Win + Ctrl + Maj + B** >> Réinitialise et redémarre le pilote graphique (Dépannage)
+
+- **Win + Maj + S** >> Ouvre l'outil de capture d'écran
+
+- **Win + Flèches directionnelles (← / → / ↑ / ↓)** >> Réorganisation des fenêtres pour optimiser le travail multitâche
+
+- **Maj + Suppr** >> Supprime un fichier sans passer par la corbeille (utile pour les fichiers volumineux)
+
+- **Ctrl + Maj + Échap** >> Gestionnaire des tâches en direct =/= de Ctrl + Alt + Suppr qui fait passer par un écran intermédiaire
+
+- **Ctrl + Alt + Suppr** >>  Sert à interrompre le système de manière sécurisée en ouvrant l'écran de sécurité Windows
+
+
+
 ## CONSOLES .MSC WINDOWS
 
 - **compmgmt.msc:** Gestion de l'ordinateur (regroupe plusieurs outils d'administration locaux)
@@ -16,38 +40,40 @@
 
 - **gpmc.msc:** Gestion des stratégies de groupe (GPMC, pour les environnements de domaine Active Directory).
 
-- **wf.msc:** Mode avancé du Firewall
+- **wf.msc:** Mode avancé du Gestionnaire de firewall
+
 
 ## CONSOLES .CPL WINDOWS
 
-ncpa.cpl:
+**ncpa.cpl:** Connexions Réseau
 
-firewall.cpl:
+**firewall.cpl:** Pare-Feu Windows
 
-appwiz.cpl:
+**appwiz.cpl:** Programmes et fonctionnalités
 
-mmsys.cpl:
+**mmsys.cpl:** Périphériques de sons
 
-powercfg.cpl:
+**powercfg.cpl:** Options d'alimentation
 
-sysdm.cpl:
+**sysdm.cpl:** Propriétés Système
+
 
 ## CONSOLES AUTRES
 
-- control:
+- **control:** Panneau de configuration
 
-- regedit:
+- **regedit:** Base de registre Windows
 
-- mstmc:
+- **mstmc:** Lancement du Bureau à distance
 
-- mmc:
+- **mmc:** Créer ses consoles
 
-- %temp:
+- **%temp%:**
 
-- cmd:
+- **cmd:** Lancement de l'invite de commandes
 
-- cleanmgr:
+- **cleanmgr:** Propose un nettoyage du disque
 
-- mrt:
+- **mrt:**
 
-- msinfo32:
+- **msinfo32:**
