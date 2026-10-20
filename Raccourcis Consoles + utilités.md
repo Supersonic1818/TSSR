@@ -16,6 +16,8 @@
 
 - **gpmc.msc:** Gestion des stratégies de groupe (GPMC, pour les environnements de domaine Active Directory).
 
+- **wf.msc:** Mode avancé du Firewall
+
 ## CONSOLES .CPL WINDOWS
 
 ncpa.cpl:
