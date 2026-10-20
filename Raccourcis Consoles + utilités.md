@@ -6,24 +6,32 @@ Liste des raccourcis Windows les plus utiles pour un Technicien Support par exem
 
 | Commande | Fonctionnalités |
 
-| --- | --- |
+**Win + R** : Ouvre la boîte de dialogue "Exécuter" pour lancer des commandes (Administration Système)
 
+**Win + L** : Verrouille le PC (Sécurité)
+
+**Win + Ctrl + Maj + B** : Réinitialise et redémarre le pilote graphique (Dépannage)
+
+**Win + Maj + S** : Ouvre l'outil de capture d'écran
+
+**Win + Flèches directionnelles (← / → / ↑ / ↓)** : Réorganisation des fenêtres pour optimiser le travail multitâche
+
+**Maj + Suppr** : Supprime un fichier sans passer par la corbeille (utile pour les fichiers volumineux)
+
+**Ctrl + Maj + Échap** : Gestionnaire des tâches en direct =/= de Ctrl + Alt + Suppr qui fait passer par un écran intermédiaire
+
+**Ctrl + Alt + Suppr** : Sert à interrompre le système de manière sécurisée en ouvrant l'écran de sécurité Windows
+
+| Commande | Fonctionnalités |
+| :--- | :--- |
 | **Win + R** | Ouvre la boîte de dialogue "Exécuter" pour lancer des commandes (Administration Système) |
-
 | **Win + L** | Verrouille le PC (Sécurité) |
-
 | **Win + Ctrl + Maj + B** | Réinitialise et redémarre le pilote graphique (Dépannage) |
-
 | **Win + Maj + S** | Ouvre l'outil de capture d'écran |
-
 | **Win + Flèches directionnelles (← / → / ↑ / ↓)** | Réorganisation des fenêtres pour optimiser le travail multitâche |
-
 | **Maj + Suppr** | Supprime un fichier sans passer par la corbeille (utile pour les fichiers volumineux) |
-
 | **Ctrl + Maj + Échap** | Gestionnaire des tâches en direct =/= de Ctrl + Alt + Suppr qui fait passer par un écran intermédiaire |
-
 | **Ctrl + Alt + Suppr** | Sert à interrompre le système de manière sécurisée en ouvrant l'écran de sécurité Windows |
-
 
 ## CONSOLES .MSC WINDOWS
 
