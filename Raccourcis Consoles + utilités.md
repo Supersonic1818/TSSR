@@ -45,17 +45,17 @@ Liste des raccourcis Windows les plus utiles pour un Technicien Support par exem
 
 ## CONSOLES .CPL WINDOWS
 
-**ncpa.cpl:** Connexions Réseau
+- **ncpa.cpl:** Connexions Réseau
 
-**firewall.cpl:** Pare-Feu Windows
+- **firewall.cpl:** Pare-Feu Windows
 
-**appwiz.cpl:** Programmes et fonctionnalités
+- **appwiz.cpl:** Programmes et fonctionnalités
 
-**mmsys.cpl:** Périphériques de sons
+- **mmsys.cpl:** Périphériques de sons
 
-**powercfg.cpl:** Options d'alimentation
+- **powercfg.cpl:** Options d'alimentation
 
-**sysdm.cpl:** Propriétés Système
+- **sysdm.cpl:** Propriétés Système
 
 
 ## CONSOLES AUTRES
