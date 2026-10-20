@@ -4,22 +4,25 @@
 
 Liste des raccourcis Windows les plus utiles pour un Technicien Support par exemple.
 
-- **Win + R** >> Ouvre la boîte de dialogue "Exécuter" pour lancer des commandes (Administration Système)
+| Commande | Fonctionnalités |
 
-- **Win + L** >> Verrouille le PC (Sécurité)
+| :--- | :---: |
 
-- **Win + Ctrl + Maj + B** >> Réinitialise et redémarre le pilote graphique (Dépannage)
+| **Win + R** | Ouvre la boîte de dialogue "Exécuter" pour lancer des commandes (Administration Système) |
 
-- **Win + Maj + S** >> Ouvre l'outil de capture d'écran
+| **Win + L** | Verrouille le PC (Sécurité) |
 
-- **Win + Flèches directionnelles (← / → / ↑ / ↓)** >> Réorganisation des fenêtres pour optimiser le travail multitâche
+| **Win + Ctrl + Maj + B** | Réinitialise et redémarre le pilote graphique (Dépannage) |
 
-- **Maj + Suppr** >> Supprime un fichier sans passer par la corbeille (utile pour les fichiers volumineux)
+| **Win + Maj + S** | Ouvre l'outil de capture d'écran |
 
-- **Ctrl + Maj + Échap** >> Gestionnaire des tâches en direct =/= de Ctrl + Alt + Suppr qui fait passer par un écran intermédiaire
+| **Win + Flèches directionnelles (← / → / ↑ / ↓)** | Réorganisation des fenêtres pour optimiser le travail multitâche |
 
-- **Ctrl + Alt + Suppr** >>  Sert à interrompre le système de manière sécurisée en ouvrant l'écran de sécurité Windows
+| **Maj + Suppr** | Supprime un fichier sans passer par la corbeille (utile pour les fichiers volumineux) |
 
+| **Ctrl + Maj + Échap** | Gestionnaire des tâches en direct =/= de Ctrl + Alt + Suppr qui fait passer par un écran intermédiaire |
+
+| **Ctrl + Alt + Suppr** | Sert à interrompre le système de manière sécurisée en ouvrant l'écran de sécurité Windows |
 
 
 ## CONSOLES .MSC WINDOWS
