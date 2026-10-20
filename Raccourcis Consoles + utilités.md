@@ -6,7 +6,7 @@ Liste des raccourcis Windows les plus utiles pour un Technicien Support par exem
 
 | Commande | Fonctionnalités |
 
-| :--- | :---: |
+| --- | --- |
 
 | **Win + R** | Ouvre la boîte de dialogue "Exécuter" pour lancer des commandes (Administration Système) |
 
