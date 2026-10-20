@@ -16,9 +16,25 @@ Séquence de démarrage = POST (Power on Self Test) > BIOS > BOOTLOADER > OS > D
 
 **BSD:** Famille de sytèmes d'exploitation dérivée d'UNIX (Par exemple: FREE, OPEN, Net)
 
+**MS-DOS:**
+
 ## 1985
 
-**WINDOWS:**
+**WINDOWS:** De 1985 à 2000, Windows à besoin de MS-DOS pour fonctionner. // Après les années 2000, on est passé sur les Windows modernes, dits **NT**.
+
+Windows 2000 = NTS
+
+Windows XP = NT5.1
+
+Windows Vista = NT6
+
+Windows 7
+
+Windows 8 et Windows 8.1
+
+Windows 10
+
+Windows 11
 
 ## 1991
 
