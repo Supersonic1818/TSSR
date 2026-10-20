@@ -5,24 +5,6 @@
 Liste des raccourcis Windows les plus utiles pour un Technicien Support par exemple.
 
 | Commande | Fonctionnalités |
-
-**Win + R** : Ouvre la boîte de dialogue "Exécuter" pour lancer des commandes (Administration Système)
-
-**Win + L** : Verrouille le PC (Sécurité)
-
-**Win + Ctrl + Maj + B** : Réinitialise et redémarre le pilote graphique (Dépannage)
-
-**Win + Maj + S** : Ouvre l'outil de capture d'écran
-
-**Win + Flèches directionnelles (← / → / ↑ / ↓)** : Réorganisation des fenêtres pour optimiser le travail multitâche
-
-**Maj + Suppr** : Supprime un fichier sans passer par la corbeille (utile pour les fichiers volumineux)
-
-**Ctrl + Maj + Échap** : Gestionnaire des tâches en direct =/= de Ctrl + Alt + Suppr qui fait passer par un écran intermédiaire
-
-**Ctrl + Alt + Suppr** : Sert à interrompre le système de manière sécurisée en ouvrant l'écran de sécurité Windows
-
-| Commande | Fonctionnalités |
 | :--- | :--- |
 | **Win + R** | Ouvre la boîte de dialogue "Exécuter" pour lancer des commandes (Administration Système) |
 | **Win + L** | Verrouille le PC (Sécurité) |
@@ -35,23 +17,17 @@ Liste des raccourcis Windows les plus utiles pour un Technicien Support par exem
 
 ## CONSOLES .MSC WINDOWS
 
-- **compmgmt.msc:** Gestion de l'ordinateur (regroupe plusieurs outils d'administration locaux)
-
-- **devmgmt.msc:** Gestionnaire de périphériques (installation, pilotes et état du matériel).
-
-- **diskmgmt.msc:** Gestion des disques (création, formatage et partitionnement des volumes).
-
-- **services.msc:** Services Windows (démarrer, arrêter ou désactiver les programmes d'arrière-plan).
-
-- **eventvwr.msc:** Observateur d'événements (consultation des journaux système, applications et sécurité).
-
-- **certmgr.msc:** Gestionnaire de certificats (certificats personnels et autorités de certification).
-
-- **secpol.msc:** Stratégie de sécurité locale (paramètres de sécurité et stratégies de mot de passe).
-
-- **gpmc.msc:** Gestion des stratégies de groupe (GPMC, pour les environnements de domaine Active Directory).
-
-- **wf.msc:** Mode avancé du Gestionnaire de firewall
+| Commande | Fonctionnalités |
+| :--- | :--- |
+| **compmgmt.msc** | Gestion de l'ordinateur (regroupe plusieurs outils d'administration locaux) |
+| **devmgmt.msc** | Gestionnaire de périphériques (installation, pilotes et état du matériel). |
+| **diskmgmt.msc** | Gestion des disques (création, formatage et partitionnement des volumes). |
+| **services.msc** | Services Windows (démarrer, arrêter ou désactiver les programmes d'arrière-plan). |
+| **eventvwr.msc** | Observateur d'événements (consultation des journaux système, applications et sécurité). |
+| **certmgr.msc** | Gestionnaire de certificats (certificats personnels et autorités de certification). |
+| **secpol.msc** | Stratégie de sécurité locale (paramètres de sécurité et stratégies de mot de passe). |
+| **gpmc.msc** | Gestion des stratégies de groupe (GPMC, pour les environnements de domaine Active Directory). |
+| **wf.msc** | Mode avancé du Gestionnaire de firewall |
 
 
 ## CONSOLES .CPL WINDOWS
